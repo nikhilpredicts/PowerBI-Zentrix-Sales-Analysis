@@ -31,7 +31,7 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 # Final Result:
 ## Revenue Insights Page:
 
-<img width="2221" height="1231" alt="Revenue Insights Page" src="https://github.com/user-attachments/assets/a3f859e2-9079-430f-9061-7786f20db8a6" />
+<img width="1956" height="1074" alt="Revenue Insights Page" src="https://github.com/user-attachments/assets/4716f139-27c2-45ff-a36f-c747221f277b" />
 
 ## Profit Insights Page:
 
@@ -49,3 +49,13 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 # Final Report:
 ![Report-GIF](https://github.com/user-attachments/assets/21a40fb5-ee7c-497b-b345-28e5172d03ff)
 
+
+## Insights from this Project:
+
+- Revenue consistently declined in the year 2020.
+- The Delhi market contributes the highest revenue share at 52.8%, while the Surat market delivers a stronger profit margin of 4.86%. Therefore, we may consider focusing more on Surat for profitability.
+- Although Delhi’s profit margin is lower at 2.30% compared to Surat, it still contributes the highest share of overall profit at 48%.
+- The Central Zone offers a higher profit margin percentage than both the North and South Zones.
+- Brick & Mortar customers generate more revenue than those from the E-Commerce segment.
+- Our top-performing customer is ElectricalSara Stores, contributing 42% of overall revenue, with a profit margin of 2.25% and accounting for 38% of Zentrix’s total profit contribution.
+- January shows the highest revenue across all years, while September records the lowest.
