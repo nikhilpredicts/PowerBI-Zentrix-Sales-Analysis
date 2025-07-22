@@ -59,3 +59,9 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 - Brick & Mortar customers generate more revenue than those from the E-Commerce segment.
 - Our top-performing customer is ElectricalSara Stores, contributing 42% of overall revenue, with a profit margin of 2.25% and accounting for 38% of Zentrix’s total profit contribution.
 - January shows the highest revenue across all years, while September records the lowest.
+
+## Author
+
+**Nikhil Karaka**  
+
+Thank you for exploring this project!
