@@ -64,4 +64,9 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 
 **Nikhil Karaka**  
 
+
+## 📬 Contact
+
+For queries or suggestions, feel free to reach out via [email](mailto:karakanikhil2003@gmail.com) or connect on [GitHub](https://github.com/karakanikhil2003).
+
 Thank you for exploring this project!
